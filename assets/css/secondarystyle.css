@@ -1,0 +1,32 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .secondary-content {
+      width: 80%;
+      margin: 5px 0 15px 0;
+  }
+
+  article p {
+      color: #024e76;
+      font: 16px;
+      line-height: 1.5;
+      margin: 20px 0;
+  }
+
+  article h3 {
+font-size: 25px;
+margin: 20px 0;
+  }
+
+  ul {
+      margin: 15px 20px;
+  }
+
+  li {
+      color: #39a6b2;
+      margin: 10px 0;
+  }
