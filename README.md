@@ -12,3 +12,5 @@ https://zeus6117.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jordan King
+
+### ©️2019 Run Buddy, Inc 
